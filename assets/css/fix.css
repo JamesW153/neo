@@ -1,0 +1,160 @@
+
+@media all and (min-width: 421px) {
+.name-error {
+display: none;
+position: absolute;
+top: 1% !important;
+}
+.email-error {
+display: none;
+position: absolute;
+top: 15% !important;
+}
+.tel-error {
+display: none;
+/*top: 38% !important;*/
+position: absolute;
+top: 34% !important;
+}
+.message-error {
+display: none;
+position: absolute;
+top: 64% !important;
+}
+}
+
+@media only screen and (min-width: 544px) {
+.name-error {
+display: none;
+position: absolute;
+top: 46% !important;
+right: 49.6%;
+}
+.email-error {
+display: none;
+position: absolute;
+top: 56% !important;
+right: 49.8%;
+}
+.tel-error {
+display: none;
+/*top: 38% !important;*/
+position: absolute;
+top: 65% !important;
+right: 50%;
+}
+.message-error {
+display: none;
+position: absolute;
+top: 49% !important;
+right: 2%;
+}
+}
+@media only screen and (min-width: 768px) {
+.name-error {
+display: none;
+position: absolute;
+top: 46% !important;
+right: 49.6%;
+}
+.email-error {
+display: none;
+position: absolute;
+top: 56% !important;
+right: 49.8%;
+}
+.tel-error {
+display: none;
+/*top: 38% !important;*/
+position: absolute;
+top: 65% !important;
+right: 50%;
+}
+.message-error {
+display: none;
+position: absolute;
+top: 49% !important;
+right: 2%;
+}
+}
+@media only screen and (min-width: 992px) {
+.name-error {
+display: none;
+position: absolute;
+top: 46% !important;
+right: 49.6%;
+}
+.email-error {
+display: none;
+position: absolute;
+top: 56% !important;
+right: 49.8%;
+}
+.tel-error {
+display: none;
+/*top: 38% !important;*/
+position: absolute;
+top: 65% !important;
+right: 50%;
+}
+.message-error {
+display: none;
+position: absolute;
+top: 49% !important;
+right: 2%;
+}
+
+}
+@media only screen and (min-width: 1200px) {
+.name-error {
+display: none;
+position: absolute;
+top: 46% !important;
+right: 49.6%;
+}
+.email-error {
+display: none;
+position: absolute;
+top: 56% !important;
+right: 49.8%;
+}
+.tel-error {
+display: none;
+/*top: 38% !important;*/
+position: absolute;
+top: 65% !important;
+right: 50%;
+}
+.message-error {
+display: none;
+position: absolute;
+top: 49% !important;
+right: 2%;
+}
+}
+
+
+
+
+.message-success {
+color: rgb(15, 197, 158);
+position: absolute;
+top: 81% !important;
+right: -6% !important;
+z-index: 9;
+font-weight: normal;
+font-size: 19px !important;
+}
+.message-failure {
+color: rgb(188, 0, 0);
+position: absolute;
+top: 81% !important;
+right: -6% !important;
+z-index: 9;
+font-weight: normal;
+font-size: 19px !important;
+}
+
+.post-success {
+display:none;
+}
